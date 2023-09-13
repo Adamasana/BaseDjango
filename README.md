@@ -1,0 +1,2 @@
+# BaseDjango
+base
